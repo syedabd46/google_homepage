@@ -1,0 +1,1 @@
+The purpose of this project was to familiarize myself with html and css on a basic level.
